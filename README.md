@@ -2,7 +2,7 @@
 
 # Hello there, I'm Fedu 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Incoming+Data+%26+Software+Engineer+%40+P%26G;MSc+CS+%40+Politecnico+di+Milano+%F0%9F%8E%93;Media+strategist+turned+software+and+data+engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Data+%26+Software+Engineer+%40+P%26G;MSc+CS+%40+Politecnico+di+Milano+%F0%9F%8E%93;Media+strategist+turned+software+and+data+engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
