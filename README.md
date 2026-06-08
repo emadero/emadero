@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Fedu 👋
+# Hey there, I'm Fedu 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=560&lines=Data+%26+Software+Engineer+%40+P%26G;MSc+CS+%40+Politecnico+di+Milano+%F0%9F%8E%93;Media+strategist+turned+sofwtware/data+engineer;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🏭 **Data & Software Engineer @ P&G**
 - 🎓 **MSc Computer Science Engineering** · Politecnico di Milano
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -48,7 +48,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-**📡 Media & Ad Tech**
+**Media & Ad Tech**
 
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
 ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -74,6 +74,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emadero)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emaderotorres@gmail.com)
 
 </div>
