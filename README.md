@@ -22,9 +22,9 @@ I'm passionate about building data-intensive applications, scalable systems, and
 
 ### GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=emadero\&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emadero\&layout=compact)
 
 ### Connect
 
