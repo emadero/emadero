@@ -1,16 +1,31 @@
-## Hello there, I am Fedu 👋
+# Hello there, I'm Fedu 👋
 
-<!--
-**emadero/emadero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer | Computer Science Master's Student
 
-Here are some ideas to get you started:
+I'm passionate about building data-intensive applications, scalable systems, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+* Data Engineering
+* Artificial Intelligence
+* Machine Learning
+* Large Language Models (LLMs)
+* Software Engineering
+* Cloud & Distributed Systems
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+### Connect
+
+* LinkedIn: linkedin.com/in/emaderotorres
